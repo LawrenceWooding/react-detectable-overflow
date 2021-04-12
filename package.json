@@ -1,10 +1,10 @@
 {
-  "name": "react-detectable-overflow",
-  "version": "0.5.0",
-  "description": "A React component that informs when the overflowed status is changed.",
+  "name": "react-detectable-overflow-modified",
+  "version": "0.0.1",
+  "description": "A React component that informs when the overflowed status is changed, forked by Lawrence Wooding to remove node requirements.",
   "author": {
-    "name": "Hotaka Kanazawa",
-    "email": "kanazawahotaka@gmail.com"
+    "name": "Lawrence Wooding",
+    "email": "lawrencewooding@gmail.com"
   },
   "license": "MIT",
   "keywords": [
@@ -13,12 +13,9 @@
     "text-overflow",
     "ellipsis"
   ],
-  "repository": "git@github.com:h-kanazawa/react-detectable-overflow.git",
+  "repository": "https://github.com/LawrenceWooding/react-detectable-overflow.git",
   "bugs": {
-    "url": "https://github.com/h-kanazawa/react-detectable-overflow/issues"
-  },
-  "engines": {
-    "node": ">=12.14.0"
+    "url": "https://github.com/LawrenceWooding/react-detectable-overflow/issues"
   },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
